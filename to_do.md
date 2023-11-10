@@ -3,7 +3,7 @@
 ## Additional Setup Configuration
 
 - [ ] Add ctrl hjkl functionality to move between panels
-- [ ] Add [jk] as escape 
+- [x] Add [jk] as escape 
 - [ ] Set up python, c/c++, rust, js & ts LSP/Linter/Treesitter/formatter
 - [ ] Check to see if we can add/merge files to github for our configuration
 
